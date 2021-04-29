@@ -162,7 +162,7 @@ void assertNotEmpty(LinkedList list) {
 	}
 }
 
-// Creates a new node and fill it with data
+// Creates a new linkedList
 LinkedList new_list() {
 	LinkedList list = (LinkedList) malloc(sizeof(LinkedList));
 
